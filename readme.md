@@ -3,7 +3,7 @@
 ### 简要介绍：
 这是一个简易版的Chrome恐龙游戏。
 
-> 展示页面 https://ockhamrazor.github.io/chrome-dinosaur-game/
+> 展示页面 https://tigerxiaoxi.github.io/chrome-dinosaur-game/
 
 ### 版本说明
 > v0.0.1 
